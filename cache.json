@@ -1,0 +1,1112 @@
+{
+    "https://api.teleport.org/api/countries/": {
+        "Afghanistan": [
+            "/iso_alpha2:AF/",
+            "http://www.worldbank.org/en/country/afghanistan"
+        ],
+        "Aland Islands": [
+            "/iso_alpha2:AX/"
+        ],
+        "Albania": [
+            "/iso_alpha2:AL/",
+            "http://www.worldbank.org/en/country/albania"
+        ],
+        "Algeria": [
+            "/iso_alpha2:DZ/",
+            "http://www.worldbank.org/en/country/algeria"
+        ],
+        "American Samoa": [
+            "/iso_alpha2:AS/"
+        ],
+        "Andorra": [
+            "/iso_alpha2:AD/"
+        ],
+        "Angola": [
+            "/iso_alpha2:AO/",
+            "http://www.worldbank.org/en/country/angola"
+        ],
+        "Anguilla": [
+            "/iso_alpha2:AI/"
+        ],
+        "Antarctica": [
+            "/iso_alpha2:AQ/"
+        ],
+        "Antigua and Barbuda": [
+            "/iso_alpha2:AG/",
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "Argentina": [
+            "/iso_alpha2:AR/",
+            "http://www.worldbank.org/en/country/argentina"
+        ],
+        "Armenia": [
+            "/iso_alpha2:AM/",
+            "http://www.worldbank.org/en/country/armenia"
+        ],
+        "Aruba": [
+            "/iso_alpha2:AW/"
+        ],
+        "Australia": [
+            "/iso_alpha2:AU/"
+        ],
+        "Austria": [
+            "/iso_alpha2:AT/",
+            "http://www.worldbank.org/en/country/austria"
+        ],
+        "Azerbaijan": [
+            "/iso_alpha2:AZ/",
+            "http://www.worldbank.org/en/country/azerbaijan"
+        ],
+        "Bahamas": [
+            "/iso_alpha2:BS/"
+        ],
+        "Bahrain": [
+            "/iso_alpha2:BH/",
+            "http://www.worldbank.org/en/region/mena/brief/gcc"
+        ],
+        "Bangladesh": [
+            "/iso_alpha2:BD/",
+            "http://www.worldbank.org/en/country/bangladesh"
+        ],
+        "Barbados": [
+            "/iso_alpha2:BB/"
+        ],
+        "Belarus": [
+            "/iso_alpha2:BY/",
+            "http://www.worldbank.org/en/country/belarus"
+        ],
+        "Belgium": [
+            "/iso_alpha2:BE/",
+            "http://www.worldbank.org/en/country/belgium"
+        ],
+        "Belize": [
+            "/iso_alpha2:BZ/",
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "Benin": [
+            "/iso_alpha2:BJ/",
+            "http://www.worldbank.org/en/country/benin"
+        ],
+        "Bermuda": [
+            "/iso_alpha2:BM/"
+        ],
+        "Bhutan": [
+            "/iso_alpha2:BT/",
+            "http://www.worldbank.org/en/country/bhutan"
+        ],
+        "Bolivia": [
+            "/iso_alpha2:BO/",
+            "http://www.worldbank.org/en/country/bolivia"
+        ],
+        "Bonaire, Saint Eustatius and Saba ": [
+            "/iso_alpha2:BQ/"
+        ],
+        "Bosnia and Herzegovina": [
+            "/iso_alpha2:BA/",
+            "http://www.worldbank.org/en/country/bosniaandherzegovina"
+        ],
+        "Botswana": [
+            "/iso_alpha2:BW/",
+            "http://www.worldbank.org/en/country/botswana"
+        ],
+        "Bouvet Island": [
+            "/iso_alpha2:BV/"
+        ],
+        "Brazil": [
+            "/iso_alpha2:BR/",
+            "http://www.worldbank.org/en/country/brazil"
+        ],
+        "British Indian Ocean Territory": [
+            "/iso_alpha2:IO/"
+        ],
+        "British Virgin Islands": [
+            "/iso_alpha2:VG/"
+        ],
+        "Brunei": [
+            "/iso_alpha2:BN/"
+        ],
+        "Bulgaria": [
+            "/iso_alpha2:BG/",
+            "http://www.worldbank.org/en/country/bulgaria"
+        ],
+        "Burkina Faso": [
+            "/iso_alpha2:BF/",
+            "http://www.worldbank.org/en/country/burkinafaso"
+        ],
+        "Burundi": [
+            "/iso_alpha2:BI/",
+            "http://www.worldbank.org/en/country/burundi"
+        ],
+        "Cambodia": [
+            "/iso_alpha2:KH/",
+            "http://www.worldbank.org/en/country/cambodia"
+        ],
+        "Cameroon": [
+            "/iso_alpha2:CM/",
+            "http://www.worldbank.org/en/country/cameroon"
+        ],
+        "Canada": [
+            "/iso_alpha2:CA/",
+            "http://www.worldbank.org/en/country/canada"
+        ],
+        "Cape Verde": [
+            "/iso_alpha2:CV/"
+        ],
+        "Cayman Islands": [
+            "/iso_alpha2:KY/"
+        ],
+        "Central African Republic": [
+            "/iso_alpha2:CF/",
+            "http://www.worldbank.org/en/country/centralafricanrepublic"
+        ],
+        "Chad": [
+            "/iso_alpha2:TD/",
+            "http://www.worldbank.org/en/country/chad"
+        ],
+        "Chile": [
+            "/iso_alpha2:CL/",
+            "http://www.worldbank.org/en/country/chile"
+        ],
+        "China": [
+            "/iso_alpha2:CN/",
+            "http://www.worldbank.org/en/country/china"
+        ],
+        "Christmas Island": [
+            "/iso_alpha2:CX/"
+        ],
+        "Cocos Islands": [
+            "/iso_alpha2:CC/"
+        ],
+        "Colombia": [
+            "/iso_alpha2:CO/",
+            "http://www.worldbank.org/en/country/colombia"
+        ],
+        "Comoros": [
+            "/iso_alpha2:KM/",
+            "http://www.worldbank.org/en/country/comoros"
+        ],
+        "Cook Islands": [
+            "/iso_alpha2:CK/"
+        ],
+        "Costa Rica": [
+            "/iso_alpha2:CR/",
+            "http://www.worldbank.org/en/country/costarica"
+        ],
+        "Croatia": [
+            "/iso_alpha2:HR/",
+            "http://www.worldbank.org/en/country/croatia"
+        ],
+        "Cuba": [
+            "/iso_alpha2:CU/"
+        ],
+        "Curacao": [
+            "/iso_alpha2:CW/"
+        ],
+        "Cyprus": [
+            "/iso_alpha2:CY/"
+        ],
+        "Czechia": [
+            "/iso_alpha2:CZ/"
+        ],
+        "Democratic Republic of the Congo": [
+            "/iso_alpha2:CD/"
+        ],
+        "Denmark": [
+            "/iso_alpha2:DK/",
+            "http://www.worldbank.org/en/country/denmark"
+        ],
+        "Djibouti": [
+            "/iso_alpha2:DJ/",
+            "http://www.worldbank.org/en/country/djibouti"
+        ],
+        "Dominica": [
+            "/iso_alpha2:DM/",
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "Dominican Republic": [
+            "/iso_alpha2:DO/",
+            "http://www.worldbank.org/en/country/dominicanrepublic"
+        ],
+        "East Timor": [
+            "/iso_alpha2:TL/"
+        ],
+        "Ecuador": [
+            "/iso_alpha2:EC/",
+            "http://www.worldbank.org/en/country/ecuador"
+        ],
+        "Egypt": [
+            "/iso_alpha2:EG/",
+            "http://www.worldbank.org/en/country/egypt"
+        ],
+        "El Salvador": [
+            "/iso_alpha2:SV/",
+            "http://www.worldbank.org/en/country/elsalvador"
+        ],
+        "Equatorial Guinea": [
+            "/iso_alpha2:GQ/",
+            "http://www.worldbank.org/en/country/equatorialguinea"
+        ],
+        "Eritrea": [
+            "/iso_alpha2:ER/",
+            "http://www.worldbank.org/en/country/eritrea"
+        ],
+        "Estonia": [
+            "/iso_alpha2:EE/",
+            "http://www.worldbank.org/en/country/eu"
+        ],
+        "Ethiopia": [
+            "/iso_alpha2:ET/",
+            "http://www.worldbank.org/en/country/ethiopia"
+        ],
+        "Falkland Islands": [
+            "/iso_alpha2:FK/"
+        ],
+        "Faroe Islands": [
+            "/iso_alpha2:FO/"
+        ],
+        "Fiji": [
+            "/iso_alpha2:FJ/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "Finland": [
+            "/iso_alpha2:FI/",
+            "http://www.worldbank.org/en/country/finland"
+        ],
+        "France": [
+            "/iso_alpha2:FR/",
+            "http://www.worldbank.org/en/country/france"
+        ],
+        "French Guiana": [
+            "/iso_alpha2:GF/"
+        ],
+        "French Polynesia": [
+            "/iso_alpha2:PF/"
+        ],
+        "French Southern Territories": [
+            "/iso_alpha2:TF/"
+        ],
+        "Gabon": [
+            "/iso_alpha2:GA/",
+            "http://www.worldbank.org/en/country/gabon"
+        ],
+        "Gambia": [
+            "/iso_alpha2:GM/"
+        ],
+        "Georgia": [
+            "/iso_alpha2:GE/",
+            "http://www.worldbank.org/en/country/georgia"
+        ],
+        "Germany": [
+            "/iso_alpha2:DE/",
+            "http://www.worldbank.org/en/country/germany"
+        ],
+        "Ghana": [
+            "/iso_alpha2:GH/",
+            "http://www.worldbank.org/en/country/ghana"
+        ],
+        "Gibraltar": [
+            "/iso_alpha2:GI/"
+        ],
+        "Greece": [
+            "/iso_alpha2:GR/",
+            "http://www.worldbank.org/en/country/greece"
+        ],
+        "Greenland": [
+            "/iso_alpha2:GL/"
+        ],
+        "Grenada": [
+            "/iso_alpha2:GD/",
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "Guadeloupe": [
+            "/iso_alpha2:GP/"
+        ],
+        "Guam": [
+            "/iso_alpha2:GU/"
+        ],
+        "Guatemala": [
+            "/iso_alpha2:GT/",
+            "http://www.worldbank.org/en/country/guatemala"
+        ],
+        "Guernsey": [
+            "/iso_alpha2:GG/"
+        ],
+        "Guinea": [
+            "/iso_alpha2:GN/",
+            "http://www.worldbank.org/en/country/guinea"
+        ],
+        "Guinea-Bissau": [
+            "/iso_alpha2:GW/",
+            "http://www.worldbank.org/en/country/guineabissau"
+        ],
+        "Guyana": [
+            "/iso_alpha2:GY/",
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "Haiti": [
+            "/iso_alpha2:HT/",
+            "http://www.worldbank.org/en/country/haiti"
+        ],
+        "Heard Island and McDonald Islands": [
+            "/iso_alpha2:HM/"
+        ],
+        "Honduras": [
+            "/iso_alpha2:HN/",
+            "http://www.worldbank.org/en/country/honduras"
+        ],
+        "Hong Kong": [
+            "/iso_alpha2:HK/"
+        ],
+        "Hungary": [
+            "/iso_alpha2:HU/",
+            "http://www.worldbank.org/en/country/eu"
+        ],
+        "Iceland": [
+            "/iso_alpha2:IS/",
+            "http://www.worldbank.org/en/country/iceland"
+        ],
+        "India": [
+            "/iso_alpha2:IN/",
+            "http://www.worldbank.org/en/country/india"
+        ],
+        "Indonesia": [
+            "/iso_alpha2:ID/",
+            "http://www.worldbank.org/en/country/indonesia"
+        ],
+        "Iran": [
+            "/iso_alpha2:IR/",
+            "http://www.worldbank.org/en/country/iran"
+        ],
+        "Iraq": [
+            "/iso_alpha2:IQ/",
+            "http://www.worldbank.org/iraq"
+        ],
+        "Ireland": [
+            "/iso_alpha2:IE/"
+        ],
+        "Isle of Man": [
+            "/iso_alpha2:IM/"
+        ],
+        "Israel": [
+            "/iso_alpha2:IL/",
+            "http://data.worldbank.org/country/israel"
+        ],
+        "Italy": [
+            "/iso_alpha2:IT/",
+            "http://www.worldbank.org/en/country/italy"
+        ],
+        "Ivory Coast": [
+            "/iso_alpha2:CI/"
+        ],
+        "Jamaica": [
+            "/iso_alpha2:JM/",
+            "http://www.worldbank.org/en/country/jamaica"
+        ],
+        "Japan": [
+            "/iso_alpha2:JP/",
+            "http://www.worldbank.org/en/country/japan"
+        ],
+        "Jersey": [
+            "/iso_alpha2:JE/"
+        ],
+        "Jordan": [
+            "/iso_alpha2:JO/",
+            "http://www.worldbank.org/en/country/jordan"
+        ],
+        "Kazakhstan": [
+            "/iso_alpha2:KZ/",
+            "http://www.worldbank.org/en/country/kazakhstan"
+        ],
+        "Kenya": [
+            "/iso_alpha2:KE/",
+            "http://www.worldbank.org/en/country/kenya"
+        ],
+        "Kiribati": [
+            "/iso_alpha2:KI/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "Kosovo": [
+            "/iso_alpha2:XK/",
+            "http://www.worldbank.org/en/country/kosovo"
+        ],
+        "Kuwait": [
+            "/iso_alpha2:KW/",
+            "http://www.worldbank.org/en/region/mena/brief/gcc"
+        ],
+        "Kyrgyzstan": [
+            "/iso_alpha2:KG/"
+        ],
+        "Laos": [
+            "/iso_alpha2:LA/"
+        ],
+        "Latvia": [
+            "/iso_alpha2:LV/",
+            "http://www.worldbank.org/en/country/eu"
+        ],
+        "Lebanon": [
+            "/iso_alpha2:LB/",
+            "http://www.worldbank.org/en/country/lebanon"
+        ],
+        "Lesotho": [
+            "/iso_alpha2:LS/",
+            "http://www.worldbank.org/en/country/lesotho"
+        ],
+        "Liberia": [
+            "/iso_alpha2:LR/",
+            "http://www.worldbank.org/en/country/liberia"
+        ],
+        "Libya": [
+            "/iso_alpha2:LY/",
+            "http://www.worldbank.org/en/country/libya"
+        ],
+        "Liechtenstein": [
+            "/iso_alpha2:LI/"
+        ],
+        "Lithuania": [
+            "/iso_alpha2:LT/",
+            "http://www.worldbank.org/en/country/eu"
+        ],
+        "Luxembourg": [
+            "/iso_alpha2:LU/",
+            "http://www.worldbank.org/en/country/luxembourg"
+        ],
+        "Macao": [
+            "/iso_alpha2:MO/"
+        ],
+        "Macedonia": [
+            "/iso_alpha2:MK/"
+        ],
+        "Madagascar": [
+            "/iso_alpha2:MG/",
+            "http://www.worldbank.org/en/country/madagascar"
+        ],
+        "Malawi": [
+            "/iso_alpha2:MW/",
+            "http://www.worldbank.org/en/country/malawi"
+        ],
+        "Malaysia": [
+            "/iso_alpha2:MY/",
+            "http://www.worldbank.org/en/country/malaysia"
+        ],
+        "Maldives": [
+            "/iso_alpha2:MV/",
+            "http://www.worldbank.org/en/country/maldives"
+        ],
+        "Mali": [
+            "/iso_alpha2:ML/",
+            "http://www.worldbank.org/en/country/mali"
+        ],
+        "Malta": [
+            "/iso_alpha2:MT/"
+        ],
+        "Marshall Islands": [
+            "/iso_alpha2:MH/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "Martinique": [
+            "/iso_alpha2:MQ/"
+        ],
+        "Mauritania": [
+            "/iso_alpha2:MR/",
+            "http://www.worldbank.org/en/country/mauritania"
+        ],
+        "Mauritius": [
+            "/iso_alpha2:MU/",
+            "http://www.worldbank.org/en/country/mauritius"
+        ],
+        "Mayotte": [
+            "/iso_alpha2:YT/"
+        ],
+        "Mexico": [
+            "/iso_alpha2:MX/",
+            "http://www.worldbank.org/en/country/mexico"
+        ],
+        "Micronesia": [
+            "/iso_alpha2:FM/"
+        ],
+        "Moldova": [
+            "/iso_alpha2:MD/",
+            "http://www.worldbank.org/en/country/moldova"
+        ],
+        "Monaco": [
+            "/iso_alpha2:MC/"
+        ],
+        "Mongolia": [
+            "/iso_alpha2:MN/",
+            "http://www.worldbank.org/en/country/mongolia"
+        ],
+        "Montenegro": [
+            "/iso_alpha2:ME/",
+            "http://www.worldbank.org/en/country/montenegro"
+        ],
+        "Montserrat": [
+            "/iso_alpha2:MS/"
+        ],
+        "Morocco": [
+            "/iso_alpha2:MA/",
+            "http://www.worldbank.org/en/country/morocco"
+        ],
+        "Mozambique": [
+            "/iso_alpha2:MZ/",
+            "http://www.worldbank.org/en/country/mozambique"
+        ],
+        "Myanmar": [
+            "/iso_alpha2:MM/",
+            "http://www.worldbank.org/en/country/myanmar"
+        ],
+        "Namibia": [
+            "/iso_alpha2:NA/",
+            "http://www.worldbank.org/en/country/namibia"
+        ],
+        "Nauru": [
+            "/iso_alpha2:NR/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "Nepal": [
+            "/iso_alpha2:NP/",
+            "http://www.worldbank.org/en/country/nepal"
+        ],
+        "Netherlands": [
+            "/iso_alpha2:NL/",
+            "http://www.worldbank.org/en/country/netherlands"
+        ],
+        "Netherlands Antilles": [
+            "/iso_alpha2:AN/"
+        ],
+        "New Caledonia": [
+            "/iso_alpha2:NC/"
+        ],
+        "New Zealand": [
+            "/iso_alpha2:NZ/"
+        ],
+        "Nicaragua": [
+            "/iso_alpha2:NI/",
+            "http://www.worldbank.org/en/country/nicaragua"
+        ],
+        "Niger": [
+            "/iso_alpha2:NE/",
+            "http://www.worldbank.org/en/country/niger"
+        ],
+        "Nigeria": [
+            "/iso_alpha2:NG/",
+            "http://www.worldbank.org/en/country/nigeria"
+        ],
+        "Niue": [
+            "/iso_alpha2:NU/"
+        ],
+        "Norfolk Island": [
+            "/iso_alpha2:NF/"
+        ],
+        "Northern Mariana Islands": [
+            "/iso_alpha2:MP/"
+        ],
+        "North Korea": [
+            "/iso_alpha2:KP/"
+        ],
+        "Norway": [
+            "/iso_alpha2:NO/",
+            "http://www.worldbank.org/en/country/norway"
+        ],
+        "Oman": [
+            "/iso_alpha2:OM/",
+            "http://www.worldbank.org/en/region/mena/brief/gcc"
+        ],
+        "Pakistan": [
+            "/iso_alpha2:PK/",
+            "http://www.worldbank.org/en/country/pakistan"
+        ],
+        "Palau": [
+            "/iso_alpha2:PW/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "Palestinian Territory": [
+            "/iso_alpha2:PS/"
+        ],
+        "Panama": [
+            "/iso_alpha2:PA/",
+            "http://www.worldbank.org/en/country/panama"
+        ],
+        "Papua New Guinea": [
+            "/iso_alpha2:PG/",
+            "http://www.worldbank.org/en/country/png"
+        ],
+        "Paraguay": [
+            "/iso_alpha2:PY/",
+            "http://www.worldbank.org/en/country/paraguay"
+        ],
+        "Peru": [
+            "/iso_alpha2:PE/",
+            "http://www.worldbank.org/en/country/peru"
+        ],
+        "Philippines": [
+            "/iso_alpha2:PH/",
+            "http://www.worldbank.org/en/country/philippines"
+        ],
+        "Pitcairn": [
+            "/iso_alpha2:PN/"
+        ],
+        "Poland": [
+            "/iso_alpha2:PL/",
+            "http://www.worldbank.org/en/country/poland"
+        ],
+        "Portugal": [
+            "/iso_alpha2:PT/",
+            "http://www.worldbank.org/en/country/portugal"
+        ],
+        "Puerto Rico": [
+            "/iso_alpha2:PR/"
+        ],
+        "Qatar": [
+            "/iso_alpha2:QA/",
+            "http://www.worldbank.org/en/region/mena/brief/gcc"
+        ],
+        "Republic of the Congo": [
+            "/iso_alpha2:CG/"
+        ],
+        "Reunion": [
+            "/iso_alpha2:RE/"
+        ],
+        "Romania": [
+            "/iso_alpha2:RO/",
+            "http://www.worldbank.org/en/country/romania"
+        ],
+        "Russia": [
+            "/iso_alpha2:RU/",
+            "http://www.worldbank.org/en/country/russia"
+        ],
+        "Rwanda": [
+            "/iso_alpha2:RW/",
+            "http://www.worldbank.org/en/country/rwanda"
+        ],
+        "Saint Barthelemy": [
+            "/iso_alpha2:BL/"
+        ],
+        "Saint Helena": [
+            "/iso_alpha2:SH/"
+        ],
+        "Saint Kitts and Nevis": [
+            "/iso_alpha2:KN/"
+        ],
+        "Saint Lucia": [
+            "/iso_alpha2:LC/"
+        ],
+        "Saint Martin": [
+            "/iso_alpha2:MF/"
+        ],
+        "Saint Pierre and Miquelon": [
+            "/iso_alpha2:PM/"
+        ],
+        "Saint Vincent and the Grenadines": [
+            "/iso_alpha2:VC/"
+        ],
+        "Samoa": [
+            "/iso_alpha2:WS/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "San Marino": [
+            "/iso_alpha2:SM/"
+        ],
+        "Sao Tome and Principe": [
+            "/iso_alpha2:ST/",
+            "http://www.worldbank.org/en/country/saotome"
+        ],
+        "Saudi Arabia": [
+            "/iso_alpha2:SA/",
+            "http://www.worldbank.org/en/country/gcc"
+        ],
+        "Senegal": [
+            "/iso_alpha2:SN/",
+            "http://www.worldbank.org/en/country/senegal"
+        ],
+        "Serbia": [
+            "/iso_alpha2:RS/",
+            "http://www.worldbank.org/en/country/serbia"
+        ],
+        "Serbia and Montenegro": [
+            "/iso_alpha2:CS/"
+        ],
+        "Seychelles": [
+            "/iso_alpha2:SC/",
+            "http://www.worldbank.org/en/country/seychelles"
+        ],
+        "Sierra Leone": [
+            "/iso_alpha2:SL/",
+            "http://www.worldbank.org/en/country/sierraleone"
+        ],
+        "Singapore": [
+            "/iso_alpha2:SG/",
+            "http://www.worldbank.org/en/country/singapore"
+        ],
+        "Sint Maarten": [
+            "/iso_alpha2:SX/"
+        ],
+        "Slovakia": [
+            "/iso_alpha2:SK/"
+        ],
+        "Slovenia": [
+            "/iso_alpha2:SI/",
+            "http://www.worldbank.org/en/country/eu"
+        ],
+        "Solomon Islands": [
+            "/iso_alpha2:SB/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "Somalia": [
+            "/iso_alpha2:SO/",
+            "http://www.worldbank.org/en/country/somalia"
+        ],
+        "South Africa": [
+            "/iso_alpha2:ZA/",
+            "http://www.worldbank.org/en/country/southafrica"
+        ],
+        "South Georgia and the South Sandwich Islands": [
+            "/iso_alpha2:GS/"
+        ],
+        "South Korea": [
+            "/iso_alpha2:KR/"
+        ],
+        "South Sudan": [
+            "/iso_alpha2:SS/",
+            "http://www.worldbank.org/en/country/southsudan"
+        ],
+        "Spain": [
+            "/iso_alpha2:ES/",
+            "http://www.worldbank.org/en/country/spain"
+        ],
+        "Sri Lanka": [
+            "/iso_alpha2:LK/",
+            "http://www.worldbank.org/en/country/srilanka"
+        ],
+        "Sudan": [
+            "/iso_alpha2:SD/",
+            "http://www.worldbank.org/en/country/sudan"
+        ],
+        "Suriname": [
+            "/iso_alpha2:SR/",
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "Svalbard and Jan Mayen": [
+            "/iso_alpha2:SJ/"
+        ],
+        "Swaziland": [
+            "/iso_alpha2:SZ/",
+            "http://www.worldbank.org/en/country/swaziland"
+        ],
+        "Sweden": [
+            "/iso_alpha2:SE/",
+            "http://www.worldbank.org/en/country/sweden"
+        ],
+        "Switzerland": [
+            "/iso_alpha2:CH/",
+            "http://www.worldbank.org/en/country/switzerland"
+        ],
+        "Syria": [
+            "/iso_alpha2:SY/",
+            "http://www.worldbank.org/en/country/syria"
+        ],
+        "Taiwan": [
+            "/iso_alpha2:TW/"
+        ],
+        "Tajikistan": [
+            "/iso_alpha2:TJ/",
+            "http://www.worldbank.org/en/country/tajikistan"
+        ],
+        "Tanzania": [
+            "/iso_alpha2:TZ/",
+            "http://www.worldbank.org/en/country/tanzania"
+        ],
+        "Thailand": [
+            "/iso_alpha2:TH/",
+            "http://www.worldbank.org/en/country/thailand"
+        ],
+        "Togo": [
+            "/iso_alpha2:TG/",
+            "http://www.worldbank.org/en/country/togo"
+        ],
+        "Tokelau": [
+            "/iso_alpha2:TK/"
+        ],
+        "Tonga": [
+            "/iso_alpha2:TO/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "Trinidad and Tobago": [
+            "/iso_alpha2:TT/",
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "Tunisia": [
+            "/iso_alpha2:TN/",
+            "http://www.worldbank.org/en/country/tunisia"
+        ],
+        "Turkey": [
+            "/iso_alpha2:TR/",
+            "http://www.worldbank.org/en/country/turkey"
+        ],
+        "Turkmenistan": [
+            "/iso_alpha2:TM/",
+            "http://www.worldbank.org/en/country/turkmenistan"
+        ],
+        "Turks and Caicos Islands": [
+            "/iso_alpha2:TC/"
+        ],
+        "Tuvalu": [
+            "/iso_alpha2:TV/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "Uganda": [
+            "/iso_alpha2:UG/",
+            "http://www.worldbank.org/en/country/uganda"
+        ],
+        "Ukraine": [
+            "/iso_alpha2:UA/",
+            "http://www.worldbank.org/en/country/ukraine"
+        ],
+        "United Arab Emirates": [
+            "/iso_alpha2:AE/",
+            "http://www.worldbank.org/en/region/mena/brief/gcc"
+        ],
+        "United Kingdom": [
+            "/iso_alpha2:GB/",
+            "http://www.worldbank.org/en/country/unitedkingdom"
+        ],
+        "United States": [
+            "/iso_alpha2:US/"
+        ],
+        "United States Minor Outlying Islands": [
+            "/iso_alpha2:UM/"
+        ],
+        "Uruguay": [
+            "/iso_alpha2:UY/",
+            "http://www.worldbank.org/en/country/uruguay"
+        ],
+        "U.S. Virgin Islands": [
+            "/iso_alpha2:VI/"
+        ],
+        "Uzbekistan": [
+            "/iso_alpha2:UZ/",
+            "http://www.worldbank.org/en/country/uzbekistan"
+        ],
+        "Vanuatu": [
+            "/iso_alpha2:VU/",
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "Vatican": [
+            "/iso_alpha2:VA/"
+        ],
+        "Venezuela": [
+            "/iso_alpha2:VE/",
+            "http://www.worldbank.org/en/country/venezuela"
+        ],
+        "Vietnam": [
+            "/iso_alpha2:VN/",
+            "http://www.worldbank.org/en/country/vietnam"
+        ],
+        "Wallis and Futuna": [
+            "/iso_alpha2:WF/"
+        ],
+        "Western Sahara": [
+            "/iso_alpha2:EH/"
+        ],
+        "Yemen": [
+            "/iso_alpha2:YE/",
+            "http://www.worldbank.org/en/country/yemen"
+        ],
+        "Zambia": [
+            "/iso_alpha2:ZM/",
+            "http://www.worldbank.org/en/country/zambia"
+        ],
+        "Zimbabwe": [
+            "/iso_alpha2:ZW/",
+            "http://www.worldbank.org/en/country/zimbabwe"
+        ],
+        "Cabo Verde": [
+            "http://www.worldbank.org/en/country/caboverde"
+        ],
+        "Democratic Republic of Congo": [
+            "http://www.worldbank.org/en/country/drc"
+        ],
+        "Republic of Congo": [
+            "http://www.worldbank.org/en/country/congo"
+        ],
+        "Cote d'Ivoire": [
+            "http://www.worldbank.org/en/country/cotedivoire"
+        ],
+        "Czech Republic": [
+            "http://www.worldbank.org/en/country/eu"
+        ],
+        "Eswatini": [
+            "http://www.worldbank.org/en/country/eswatini"
+        ],
+        "The Gambia": [
+            "http://www.worldbank.org/en/country/gambia"
+        ],
+        "Korea": [
+            "http://www.worldbank.org/en/country/korea"
+        ],
+        "Kyrgyz Republic": [
+            "http://www.worldbank.org/en/country/kyrgyzrepublic"
+        ],
+        "Lao PDR": [
+            "http://www.worldbank.org/en/country/lao"
+        ],
+        "FS Micronesia": [
+            "http://www.worldbank.org/en/country/pacificislands"
+        ],
+        "North Macedonia": [
+            "http://www.worldbank.org/en/country/northmacedonia"
+        ],
+        "Slovak Republic": [
+            "http://www.worldbank.org/en/country/eu"
+        ],
+        "St. Kitts and Nevis": [
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "St. Lucia": [
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "St. Vincent and Grenadines": [
+            "http://www.worldbank.org/en/country/caribbean"
+        ],
+        "Timor Leste (East Timor)": [
+            "http://www.worldbank.org/en/country/timor-leste"
+        ],
+        "United States of America": [
+            "http://www.worldbank.org/en/country/unitedstates"
+        ],
+        "West Bank and Gaza": [
+            "http://www.worldbank.org/en/country/westbankandgaza"
+        ]
+    },
+    "Ghana": {
+        "__class__": "WorldBank",
+        "__module__": "__main__",
+        "country": "Ghana",
+        "capital": "Accra",
+        "population": 27670174,
+        "currencies": [
+            {
+                "code": "GHS",
+                "name": "Ghanaian cedi",
+                "symbol": "\u20b5"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "subregion": "Western Africa",
+        "country_id": "GHA"
+    },
+    "South Africa": {
+        "__class__": "WorldBank",
+        "__module__": "__main__",
+        "country": "South Africa",
+        "capital": "Pretoria",
+        "population": 55653654,
+        "currencies": [
+            {
+                "code": "ZAR",
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "af",
+                "iso639_2": "afr",
+                "name": "Afrikaans",
+                "nativeName": "Afrikaans"
+            },
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            },
+            {
+                "iso639_1": "nr",
+                "iso639_2": "nbl",
+                "name": "Southern Ndebele",
+                "nativeName": "isiNdebele"
+            },
+            {
+                "iso639_1": "st",
+                "iso639_2": "sot",
+                "name": "Southern Sotho",
+                "nativeName": "Sesotho"
+            },
+            {
+                "iso639_1": "ss",
+                "iso639_2": "ssw",
+                "name": "Swati",
+                "nativeName": "SiSwati"
+            },
+            {
+                "iso639_1": "tn",
+                "iso639_2": "tsn",
+                "name": "Tswana",
+                "nativeName": "Setswana"
+            },
+            {
+                "iso639_1": "ts",
+                "iso639_2": "tso",
+                "name": "Tsonga",
+                "nativeName": "Xitsonga"
+            },
+            {
+                "iso639_1": "ve",
+                "iso639_2": "ven",
+                "name": "Venda",
+                "nativeName": "Tshiven\u1e13a"
+            },
+            {
+                "iso639_1": "xh",
+                "iso639_2": "xho",
+                "name": "Xhosa",
+                "nativeName": "isiXhosa"
+            },
+            {
+                "iso639_1": "zu",
+                "iso639_2": "zul",
+                "name": "Zulu",
+                "nativeName": "isiZulu"
+            }
+        ],
+        "subregion": "Southern Africa",
+        "country_id": "ZAF"
+    },
+    "Chad": {
+        "__class__": "WorldBank",
+        "__module__": "__main__",
+        "country": "Chad",
+        "capital": "N'Djamena",
+        "population": 14497000,
+        "currencies": [
+            {
+                "code": "XAF",
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "fran\u00e7ais"
+            },
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+            }
+        ],
+        "subregion": "Middle Africa",
+        "country_id": "TCD"
+    }
+}
