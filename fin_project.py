@@ -149,7 +149,14 @@ def wb_topics(number, country):
       response = requests.get(url)
       print('According to the Bergen Climate Model from the time-period of 1980 - 1999, the average annual temperature, in degrees Celsius was ' + str(round(response.json()[0]['annualData'][0],3)))
     elif number == 2:
-      print(1)
+      url = 'https://www.theglobaleconomy.com/rankings/Secondary_school_enrollment/' 
+      response = requests.get(url)
+      soup= BeautifulSoup(response.text, 'html.parser')
+      rankings = soup.find_all('div',{ 'class' : 'outsideTitleElement' })
+      rankings = soup.find_all('a',{ 'class' : 'graph_outside_link' })
+      for i in range(len(rankings)):
+        print(i+1, rankings[i].text)
+  
     elif number == 3:
       response =  requests.get('http://api.worldbank.org/v2/country/' +  country.country_id[0:2]+'/indicator/NY.GDP.MKTP.CD?date=2006')
       response.raise_for_status()
